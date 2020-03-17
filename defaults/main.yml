@@ -4,3 +4,7 @@ grafana_protocol: http
 grafana_bind: ""  # all interfaces
 grafana_host: localhost
 grafana_port: 3001
+
+grafana_cookie_secure: true
+grafana_allow_signup: false
+grafana_viewers_can_edit: false
